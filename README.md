@@ -19,10 +19,8 @@ This is an official source code for implementing RTVM.
 If you find the codes useful, please cite our paper:
 
 ```bibtex
-@article{ai-clr,
-  title = "Design of reliable technology valuation model with calibrated machine learning of patent indicators",
-  authors = ,
-  journal = "",
-  year = ,
-  doi = ""
-}
+title = "Design of reliable technology valuation model with calibrated machine learning of patent indicators",
+authors = ,
+journal = "",
+year = ,
+doi = ""
