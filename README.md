@@ -8,7 +8,6 @@
 
 This is an official source code for implementing RTVM.
 
----
 
 ## Computational Approach
 
@@ -16,7 +15,6 @@ This is an official source code for implementing RTVM.
 2. Evaluation of the reliability and performance of ML models
 3. Derivation of ML models' reliability diagrams
 
----
 
 ## Research Environment
 
@@ -36,7 +34,6 @@ This research was conducted with the following setup:
 
 **Note**: Different library versions or operating systems may still work, but the above configuration reflects the environment used during our experiments.
 
----
 
 ## Citation
 
