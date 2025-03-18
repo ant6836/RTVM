@@ -46,7 +46,7 @@ This research was conducted with the following setup:
 
 ## Citation
 
-For now, if you find the codes useful, please cite the Arxiv paper:
+For now, if you find the codes useful, please cite [the Arxiv paper](https://arxiv.org/abs/2406.05446).
 
 ```bibtex
 @article{lee2024rtvm,
