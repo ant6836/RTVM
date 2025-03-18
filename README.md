@@ -10,7 +10,7 @@ This is an official source code for implementing RTVM.
 
 ---
 
-## Computational approach
+## Computational Approach
 
 1. Development of ML-based technology valuation models
 2. Evaluation of the reliability and performance of ML models
@@ -18,18 +18,24 @@ This is an official source code for implementing RTVM.
 
 ---
 
-## Requirements
+## Research Environment
 
-- Python 3.12+
-- Libraries
-```bibtex
-numpy==1.26.4
-pandas==2.2.1
-h2o==3.46.0.1
-scikit-learn==1.4.2
-imbalanced-learn==0.12.2
-matplotlib==3.8.4
-```
+This research was conducted with the following setup:
+
+- **Windows**
+- **Python 3.12+**
+- **Libraries**  
+  ```text
+  numpy==1.26.4
+  pandas==2.2.1
+  h2o==3.46.0.1
+  scikit-learn==1.4.2
+  imbalanced-learn==0.12.2
+  matplotlib==3.8.4
+  ```
+
+**Note**: Different library versions or operating systems may still work, but the above configuration reflects the environment used during our experiments.
+
 ---
 
 ## Citation
