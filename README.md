@@ -16,7 +16,7 @@ This is an official source code for implementing RTVM.
 
 ## Citation
 
-If you find the codes useful, please cite our paper:
+For now, if you find the codes useful, please cite the Arxiv paper:
 
 ```bibtex
 @article{lee2024rtvm,
