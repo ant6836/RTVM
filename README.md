@@ -18,6 +18,20 @@ This is an official source code for implementing RTVM.
 
 ---
 
+## Requirements
+
+- Python 3.12+
+- Libraries
+```bibtex
+numpy==1.26.4
+pandas==2.2.1
+h2o==3.46.0.1
+scikit-learn==1.4.2
+imbalanced-learn==0.12.2
+matplotlib==3.8.4
+```
+---
+
 ## Citation
 
 For now, if you find the codes useful, please cite the Arxiv paper:
