@@ -27,7 +27,7 @@ This is an official source code for implementing RTVM.
 This research was conducted with the following setup:
 
 - **Windows**
-- **Python 3.12+**
+- **Python 3.12.3**
 - **Libraries**  
   ```text
   numpy==1.26.4
