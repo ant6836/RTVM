@@ -2,6 +2,9 @@
 
 **Implementation of "Design of reliable technology valuation model with calibrated machine learning of patent indicators"**
 
+![image](https://github.com/user-attachments/assets/916bed66-fb64-4e09-bf33-0da7283469e8)
+
+
 This is an official source code for implementing RTVM.
 
 ---
