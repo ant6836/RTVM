@@ -25,3 +25,6 @@ If you find the codes useful, please cite our paper:
   journal={arXiv preprint arXiv:2406.05446},
   year={2024}
 }
+```
+
+If our paper is published in a journal, we will update the information.
